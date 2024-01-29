@@ -1,4 +1,4 @@
-Node-adaptive graph Transformer with structural encoding for accurate and robust lncRNA-disease association prediction
+Li, G., Bai, P., Liang, C. et al. Node-adaptive graph Transformer with structural encoding for accurate and robust lncRNA-disease association prediction. BMC Genomics 25, 73 (2024). https://doi.org/10.1186/s12864-024-09998-2
 
 ## Code
 ### Environment Requirement
